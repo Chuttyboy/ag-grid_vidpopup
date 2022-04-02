@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "ag-grid-community": "^27.1.0",
+    "ag-grid-react": "^27.1.0"
+  }
+}
