@@ -24,7 +24,7 @@ export default function FormDialog({ open, handleClose, data, onChange, handleFo
         <DialogTitle id="alert-dialog-title">{id ? "Playing Now" : "Fraction Video Player"}</DialogTitle>
         <DialogContent>
           <iframe width="420" height="315"
-            src={myData.imageUrl}>
+            src={video}>
           </iframe>
 
         </DialogContent>
